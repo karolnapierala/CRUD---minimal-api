@@ -1,0 +1,75 @@
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\lista.csproj.AssemblyReference.cache
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\lista.AssemblyInfoInputs.cache
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\lista.AssemblyInfo.cs
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\lista.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\lista.exe
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\lista.deps.json
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\lista.runtimeconfig.json
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\lista.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\lista.pdb
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\lista.dll
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\refint\lista.dll
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\lista.pdb
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\lista.genruntimeconfig.cache
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\ref\lista.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karol\source\repos\lista\lista\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\karol\source\repos\lista\lista\obj\Debug\net6.0\lista.csproj.CopyComplete
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\lista.exe
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\lista.deps.json
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\lista.runtimeconfig.json
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\lista.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\lista.pdb
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\lista.csproj.AssemblyReference.cache
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\lista.AssemblyInfoInputs.cache
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\lista.AssemblyInfo.cs
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\lista.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\lista.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\scopedcss\bundle\lista.styles.css
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\lista.csproj.CopyComplete
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\lista.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\refint\lista.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\lista.pdb
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\lista.genruntimeconfig.cache
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\obj\Debug\net6.0\ref\lista.dll
+C:\Users\karol\source\repos\CRUD - Copy - Copy\lista\bin\Debug\net6.0\Newtonsoft.Json.dll
